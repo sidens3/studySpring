@@ -1,2 +1,2 @@
-# studyJava
-study_Java
+# studySpring
+study_Spring
